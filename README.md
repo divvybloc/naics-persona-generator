@@ -17,7 +17,7 @@ This project generates personas, problems, and solutions for all 1,057 NAICS cod
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/naics-persona-generator.git
+    git clone https://github.com/divvybloc/naics-persona-generator.git
     cd naics-persona-generator
     ```
 
